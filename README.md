@@ -1,5 +1,5 @@
 ## Docker SWARM 
-- Para la realizacion del trabajo utilice un servidor de express pequeño y cree una imagen con él llamada "node_ayrton"
+- Implementación de servidor de express y creación una imagen llamada "node_sof"
 - Para crear el servicio se utilizó el comando "docker stack deploy -c node_servers.yml server_swarm, donde node_servers.yml es el archivo para generar el servicio y server_swarm el nombre del servicio que le asigno
 
 ## Preparar el entorno
