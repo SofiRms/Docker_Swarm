@@ -1,6 +1,6 @@
 ## Docker SWARM 
 - Implementación de servidor de express y creación una imagen llamada "node_sof"
-- Para crear el servicio se utilizó el comando "docker stack deploy -c node_servers.yml server_swarm, donde node_servers.yml es el archivo para generar el servicio y server_swarm el nombre del servicio que le asigno
+- Para crear el servicio se utilizó el comando "docker stack deploy -c node_servers.yml server_swarm, donde node_servers.yml es el archivo para generar el servicio y server_swarm el nombre del servicio que le asignó
 
 ## Preparar el entorno
 - Para que este comando funcione primero hay que activar swarm en el dispositivo, para ello se utiliza el comando "docker swarm init" 
